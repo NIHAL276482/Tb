@@ -3,3 +3,4 @@ requests
 aiohttp
 flask
 terabox-downloader==1.8
+flask[async] 
