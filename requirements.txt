@@ -2,3 +2,4 @@ TeraboxDL
 requests
 aiohttp
 flask
+terabox-downlaoder==1.8
