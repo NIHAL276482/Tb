@@ -1,5 +1,5 @@
 from flask import Flask, jsonify, request
-import TeraboxDL
+from TeraboxDL import TeraboxDL
 import os
 import logging
 from urllib.parse import urlparse
